@@ -1,5 +1,7 @@
 ## 你好 👋
 
+[English](README.md) | [中文](README-zh.md)
+
 <!--
 
 **以下是一些入门建议：**

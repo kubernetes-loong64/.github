@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[English](README.md) | [中文](README-zh.md)
+
 <!--
 
 **Here are some ideas to get you started:**
