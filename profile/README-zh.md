@@ -6,7 +6,7 @@
 
 将 Kubernetes 生态带到 **LoongArch64 (loong64)** 架构上。
 
-我们通过自动化 CI/CD 流水线，为 **LoongArch64 (loong64)**平台提供预编译的二进制文件和 Docker 镜像。我们的目标是让 Kubernetes 及其核心组件在 **LoongArch64 (loong64)**上像在主流架构上一样易于获取、稳定可靠。
+我们通过自动化 CI/CD 流水线，为 **LoongArch64 (loong64)** 平台提供预编译的二进制文件和 Docker 镜像。我们的目标是让 Kubernetes 及其核心组件在 **LoongArch64 (loong64)** 上像在主流架构上一样易于获取、稳定可靠。
 
 ## 项目
 
