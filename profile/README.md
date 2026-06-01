@@ -10,12 +10,12 @@ We provide pre-built binaries and Docker images for LoongArch64, built via autom
 
 ## Projects
 
-| Project                                                                      | Description                                                                                                  |
-|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| [kubernetes-loong64](https://github.com/xuxiaowei-com-cn/kubernetes-loong64) | Kubernetes binaries and container images for LoongArch64                                                     |
-| [release-loong64](https://github.com/xuxiaowei-com-cn/release-loong64)       | Kubernetes release tooling and build dependency images (debian-base, distroless-iptables, go-runner, setcap) |
-| [etcd-loong64](https://github.com/xuxiaowei-com-cn/etcd-loong64)             | etcd binaries and container images for LoongArch64                                                           |
-| [coredns-loong64](https://github.com/xuxiaowei-com-cn/coredns-loong64)       | CoreDNS container images for LoongArch64                                                                     |
+| Project                                                                        | Description                                                                                                  |
+|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| [kubernetes-loong64](https://github.com/kubernetes-loong64/kubernetes-loong64) | Kubernetes binaries and container images for LoongArch64                                                     |
+| [release-loong64](https://github.com/kubernetes-loong64/release-loong64)       | Kubernetes release tooling and build dependency images (debian-base, distroless-iptables, go-runner, setcap) |
+| [etcd-loong64](https://github.com/kubernetes-loong64/etcd-loong64)             | etcd binaries and container images for LoongArch64                                                           |
+| [coredns-loong64](https://github.com/kubernetes-loong64/coredns-loong64)       | CoreDNS container images for LoongArch64                                                                     |
 
 ## How it works
 

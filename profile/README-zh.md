@@ -10,12 +10,12 @@
 
 ## 项目
 
-| 项目                                                                           | 描述                                                                       |
-|------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| [kubernetes-loong64](https://github.com/xuxiaowei-com-cn/kubernetes-loong64) | Kubernetes 二进制文件和容器镜像                                                    |
-| [release-loong64](https://github.com/xuxiaowei-com-cn/release-loong64)       | Kubernetes 发布工具和构建依赖镜像（debian-base、distroless-iptables、go-runner、setcap） |
-| [etcd-loong64](https://github.com/xuxiaowei-com-cn/etcd-loong64)             | etcd 二进制文件和容器镜像                                                          |
-| [coredns-loong64](https://github.com/xuxiaowei-com-cn/coredns-loong64)       | CoreDNS 容器镜像                                                             |
+| 项目                                                                             | 描述                                                                       |
+|--------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| [kubernetes-loong64](https://github.com/kubernetes-loong64/kubernetes-loong64) | Kubernetes 二进制文件和容器镜像                                                    |
+| [release-loong64](https://github.com/kubernetes-loong64/release-loong64)       | Kubernetes 发布工具和构建依赖镜像（debian-base、distroless-iptables、go-runner、setcap） |
+| [etcd-loong64](https://github.com/kubernetes-loong64/etcd-loong64)             | etcd 二进制文件和容器镜像                                                          |
+| [coredns-loong64](https://github.com/kubernetes-loong64/coredns-loong64)       | CoreDNS 容器镜像                                                             |
 
 ## 工作原理
 
