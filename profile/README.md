@@ -6,7 +6,7 @@
 
 Bringing the Kubernetes ecosystem to the **LoongArch64 (loong64)** architecture.
 
-We provide pre-built binaries and Docker images for LoongArch64, built via automated CI/CD pipelines. Our goal is to make Kubernetes and its core components on **LoongArch64 (loong64)**as accessible and reliable as they are on mainstream architectures.
+We provide pre-built binaries and Docker images for LoongArch64, built via automated CI/CD pipelines. Our goal is to make Kubernetes and its core components on **LoongArch64 (loong64)** as accessible and reliable as they are on mainstream architectures.
 
 ## Projects
 
@@ -19,7 +19,7 @@ We provide pre-built binaries and Docker images for LoongArch64, built via autom
 
 ## How it works
 
-GitHub Actions workflows clone upstream sources, apply **LoongArch64 (loong64)**compatibility patches, and cross-compile using `gcc-loongarch64-linux-gnu` or native Go cross-compilation in a Debian 13 environment. Releases are triggered by pushing branches or tags following project-specific naming conventions.
+GitHub Actions workflows clone upstream sources, apply **LoongArch64 (loong64)** compatibility patches, and cross-compile using `gcc-loongarch64-linux-gnu` or native Go cross-compilation in a Debian 13 environment. Releases are triggered by pushing branches or tags following project-specific naming conventions.
 
 ## Verifying releases
 

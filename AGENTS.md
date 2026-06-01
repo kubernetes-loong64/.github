@@ -1,3 +1,8 @@
+# README 同步
+
+- @README.md 与 @profile/README.md 保持同步
+- @README.md 中的 README.md、README-zh.md 链接目的地是 @profile 文件夹
+
 # Gitmoji Skill
 
 When committing, use the Shortcode column from the gitmoji reference table below as the commit message title prefix.
