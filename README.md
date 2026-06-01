@@ -21,6 +21,8 @@ We provide pre-built binaries and Docker images for LoongArch64, built via autom
 
 GitHub Actions workflows clone upstream sources, apply **LoongArch64 (loong64)** compatibility patches, and cross-compile using `gcc-loongarch64-linux-gnu` or native Go cross-compilation in a Debian 13 environment. Releases are triggered by pushing branches or tags following project-specific naming conventions.
 
+See [Discussion #6 — Why Use container: debian:13?](https://github.com/orgs/kubernetes-loong64/discussions/6) for the rationale behind the Debian 13 container choice.
+
 ## Verifying releases
 
 All releases are GPG-signed. Import the public key to verify:

@@ -21,6 +21,8 @@
 
 GitHub Actions 工作流克隆上游源码，应用 **LoongArch64 (loong64)** 适配补丁，在 Debian 13 环境中使用 `gcc-loongarch64-linux-gnu` 或原生 Go 交叉编译。通过推送符合各项目命名规范的分支或标签触发构建与发布。
 
+关于 Debian 13 容器选型的理由，详见 [Discussion #6 — 为什么使用 container: debian:13？](https://github.com/orgs/kubernetes-loong64/discussions/6)。
+
 ## 验证发布
 
 所有发布均经过 GPG 签名。导入公钥以进行验证：
