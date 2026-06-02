@@ -2,6 +2,7 @@
 
 - @README.md 与 @profile/README.md 保持同步
 - @README.md 中的 README.md、README-zh.md 链接目的地是 @profile 文件夹
+- @profile/README-zh.md 是 profile/README.md 中文版，保持同步
 
 # Gitmoji Skill
 

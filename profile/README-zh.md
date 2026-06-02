@@ -16,6 +16,8 @@
 | [release-loong64](https://github.com/kubernetes-loong64/release-loong64)       | Kubernetes 发布工具和构建依赖镜像（debian-base、distroless-iptables、go-runner、setcap） |
 | [etcd-loong64](https://github.com/kubernetes-loong64/etcd-loong64)             | etcd 二进制文件和容器镜像                                                          |
 | [coredns-loong64](https://github.com/kubernetes-loong64/coredns-loong64)       | CoreDNS 容器镜像                                                             |
+| [cri-tools-loong64](https://github.com/kubernetes-loong64/cri-tools-loong64)   | 容器运行时 CLI 工具（crictl、critest）                                             |
+| [plugins-loong64](https://github.com/kubernetes-loong64/plugins-loong64)       | 容器网络 CNI 插件                                                              |
 
 ## 工作原理
 
