@@ -28,7 +28,8 @@ See [Discussion #6 — Why Use container: debian:13?](https://github.com/orgs/ku
 All releases are GPG-signed. Import the public key to verify:
 
 ```
-gpg --keyserver keys.openpgp.org --recv-keys F3693AB74BBA0D84C227AB34F3A4B5061568FC57
+gpg --keyserver keys.openpgp.org --recv-keys FCF8724722CCBF9F51B1FBE376532BE7E3013105
+echo "FCF8724722CCBF9F51B1FBE376532BE7E3013105:6:" | gpg --import-ownertrust
 ```
 
 ## License
