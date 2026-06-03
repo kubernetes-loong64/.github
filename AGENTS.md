@@ -1,8 +1,27 @@
-# README 同步
+# README Sync
 
-- @README.md 与 @profile/README.md 保持同步
-- @README.md 中的 README.md、README-zh.md 链接目的地是 @profile 文件夹
-- @profile/README-zh.md 是 profile/README.md 中文版，保持同步
+- @README.md and @profile/README.md must be kept in sync
+- The README.md and README-zh.md links in @README.md point to the @profile folder
+- @profile/README-zh.md is the Chinese version of profile/README.md; keep them in sync
+
+# DCO Skill
+
+Every commit message must include a Developer Certificate of Origin (DCO) sign-off line.
+
+## Format
+
+- The commit message MUST end with a `Signed-off-by:` line
+- The sign-off line certifies that you have the right to submit the work under the project's license
+
+Format:
+
+```
+:shortcode: your commit message here
+
+Signed-off-by: Your Name <your.email@example.com>
+```
+
+---
 
 # Gitmoji Skill
 
