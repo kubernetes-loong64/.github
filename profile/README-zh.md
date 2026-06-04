@@ -18,6 +18,10 @@
 | [coredns-loong64](https://github.com/kubernetes-loong64/coredns-loong64)       | CoreDNS 容器镜像                                                             |
 | [cri-tools-loong64](https://github.com/kubernetes-loong64/cri-tools-loong64)   | 容器运行时 CLI 工具（crictl、critest）                                             |
 | [plugins-loong64](https://github.com/kubernetes-loong64/plugins-loong64)       | 容器网络 CNI 插件                                                              |
+| [cli-loong64](https://github.com/kubernetes-loong64/cli-loong64)               | Docker CLI 二进制文件                                                         |
+| [containerd-loong64](https://github.com/kubernetes-loong64/containerd-loong64) | containerd 二进制文件和容器镜像                                                    |
+| [moby-loong64](https://github.com/kubernetes-loong64/moby-loong64)             | Docker (Moby) 二进制文件                                                      |
+| [runc-loong64](https://github.com/kubernetes-loong64/runc-loong64)             | runc 二进制文件                                                               |
 
 ## 工作原理
 
