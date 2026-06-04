@@ -15,13 +15,14 @@ We provide pre-built binaries and Docker images for LoongArch64, built via autom
 | [kubernetes-loong64](https://github.com/kubernetes-loong64/kubernetes-loong64) | Kubernetes binaries and container images for LoongArch64                                                     |
 | [release-loong64](https://github.com/kubernetes-loong64/release-loong64)       | Kubernetes release tooling and build dependency images (debian-base, distroless-iptables, go-runner, setcap) |
 | [etcd-loong64](https://github.com/kubernetes-loong64/etcd-loong64)             | etcd binaries and container images for LoongArch64                                                           |
-| [coredns-loong64](https://github.com/kubernetes-loong64/coredns-loong64)       | CoreDNS container images for LoongArch64                                                                     |
+| [coredns-loong64](https://github.com/kubernetes-loong64/coredns-loong64)       | CoreDNS binaries and container images for LoongArch64                                                        |
 | [cri-tools-loong64](https://github.com/kubernetes-loong64/cri-tools-loong64)   | CLI tools (crictl, critest) for container runtimes on LoongArch64                                            |
 | [plugins-loong64](https://github.com/kubernetes-loong64/plugins-loong64)       | CNI plugins for container networking on LoongArch64                                                          |
 | [cli-loong64](https://github.com/kubernetes-loong64/cli-loong64)               | Docker CLI binaries for LoongArch64                                                                          |
 | [containerd-loong64](https://github.com/kubernetes-loong64/containerd-loong64) | containerd binaries and container images for LoongArch64                                                     |
 | [moby-loong64](https://github.com/kubernetes-loong64/moby-loong64)             | Docker (Moby) binaries for LoongArch64                                                                       |
 | [runc-loong64](https://github.com/kubernetes-loong64/runc-loong64)             | runc binaries for LoongArch64                                                                                |
+| [tini-loong64](https://github.com/kubernetes-loong64/tini-loong64)             | Tini (init for containers) binaries for LoongArch64                                                          |
 
 ## How it works
 
