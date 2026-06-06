@@ -32,9 +32,11 @@ GitHub Actions 工作流克隆上游源码，应用 **LoongArch64 (loong64)** �
 
 ## 验证发布
 
-所有发布均经过 GPG 签名。导入公钥以进行验证：
+- 发布文件使用 GPG 签名。
+- 从 [keys.openpgp.org](https://keys.openpgp.org) 下载公钥。
+- [FCF8724722CCBF9F51B1FBE376532BE7E3013105](https://keys.openpgp.org/debug?q=FCF8724722CCBF9F51B1FBE376532BE7E3013105)
 
-```
+```shell
 gpg --keyserver keys.openpgp.org --recv-keys FCF8724722CCBF9F51B1FBE376532BE7E3013105
 echo "FCF8724722CCBF9F51B1FBE376532BE7E3013105:6:" | gpg --import-ownertrust
 ```
