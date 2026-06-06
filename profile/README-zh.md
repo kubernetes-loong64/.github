@@ -25,6 +25,10 @@
 | [runc-loong64](https://github.com/kubernetes-loong64/runc-loong64)             | runc 二进制文件                                                               |
 | [tini-loong64](https://github.com/kubernetes-loong64/tini-loong64)             | Tini（容器 init）二进制文件                                                       |
 
+## 容器镜像
+
+完整容器镜像列表请参见 [容器镜像](https://github.com/kubernetes-loong64/.github/wiki/images)。
+
 ## 工作原理
 
 GitHub Actions 工作流克隆上游源码，应用 **LoongArch64 (loong64)** 适配补丁，在 Debian 13 环境中使用 `gcc-loongarch64-linux-gnu` 或原生 Go 交叉编译。通过推送符合各项目命名规范的分支或标签触发构建与发布。

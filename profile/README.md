@@ -25,6 +25,10 @@ We provide pre-built binaries and Docker images for LoongArch64, built via autom
 | [runc-loong64](https://github.com/kubernetes-loong64/runc-loong64)             | runc binaries for LoongArch64                                                                                |
 | [tini-loong64](https://github.com/kubernetes-loong64/tini-loong64)             | Tini (init for containers) binaries for LoongArch64                                                          |
 
+## Container images
+
+See [Container Images](https://github.com/kubernetes-loong64/.github/wiki/images) for the full list of available container images.
+
 ## How it works
 
 GitHub Actions workflows clone upstream sources, apply **LoongArch64 (loong64)** compatibility patches, and cross-compile using `gcc-loongarch64-linux-gnu` or native Go cross-compilation in a Debian 13 environment. Releases are triggered by pushing branches or tags following project-specific naming conventions.
