@@ -12,6 +12,7 @@ We provide pre-built binaries and Docker images for LoongArch64, built via autom
 
 | Project                                                                        | Description                                                                                                  |
 |--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| [submodule-loong64](https://github.com/kubernetes-loong64/submodule-loong64)   | Monorepo aggregating all LoongArch64 component repositories as git submodules                                |
 | [kubernetes-loong64](https://github.com/kubernetes-loong64/kubernetes-loong64) | Kubernetes binaries and container images for LoongArch64                                                     |
 | [release-loong64](https://github.com/kubernetes-loong64/release-loong64)       | Kubernetes release tooling and build dependency images (debian-base, distroless-iptables, go-runner, setcap) |
 | [etcd-loong64](https://github.com/kubernetes-loong64/etcd-loong64)             | etcd binaries and container images for LoongArch64                                                           |

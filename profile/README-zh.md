@@ -12,6 +12,7 @@
 
 | 项目                                                                             | 描述                                                                       |
 |--------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| [submodule-loong64](https://github.com/kubernetes-loong64/submodule-loong64)   | 通过 git 子模块聚合所有 LoongArch64 组件仓库的 Monorepo                                |
 | [kubernetes-loong64](https://github.com/kubernetes-loong64/kubernetes-loong64) | Kubernetes 二进制文件和容器镜像                                                    |
 | [release-loong64](https://github.com/kubernetes-loong64/release-loong64)       | Kubernetes 发布工具和构建依赖镜像（debian-base、distroless-iptables、go-runner、setcap） |
 | [etcd-loong64](https://github.com/kubernetes-loong64/etcd-loong64)             | etcd 二进制文件和容器镜像                                                          |
