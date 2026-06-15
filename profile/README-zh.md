@@ -25,6 +25,7 @@
 | [runc-loong64](https://github.com/kubernetes-loong64/runc-loong64)             | runc 二进制文件                                                               |
 | [tini-loong64](https://github.com/kubernetes-loong64/tini-loong64)             | Tini（容器 init）二进制文件                                                       |
 | [jdk-loong64](https://github.com/kubernetes-loong64/jdk-loong64)               | JDK (Java 开发工具包) 容器镜像                                                    |
+| [maven-loong64](https://github.com/kubernetes-loong64/maven-loong64)           | Apache Maven 容器镜像                                                        |
 
 ## 容器镜像
 

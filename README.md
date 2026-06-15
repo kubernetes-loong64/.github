@@ -25,6 +25,7 @@ We provide pre-built binaries and Docker images for LoongArch64, built via autom
 | [runc-loong64](https://github.com/kubernetes-loong64/runc-loong64)             | runc binaries for LoongArch64                                                                                |
 | [tini-loong64](https://github.com/kubernetes-loong64/tini-loong64)             | Tini (init for containers) binaries for LoongArch64                                                          |
 | [jdk-loong64](https://github.com/kubernetes-loong64/jdk-loong64)               | JDK (Java Development Kit) container images for LoongArch64                                                  |
+| [maven-loong64](https://github.com/kubernetes-loong64/maven-loong64)           | Apache Maven container images for LoongArch64                                                                |
 
 ## Container images
 
