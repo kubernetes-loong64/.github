@@ -10,23 +10,25 @@
 
 ## 项目
 
-| 项目                                                                             | 描述                                                                       |
-|--------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| [submodule-loong64](https://github.com/kubernetes-loong64/submodule-loong64)   | 通过 git 子模块聚合所有 LoongArch64 组件仓库的 Monorepo                                |
-| [kubernetes-loong64](https://github.com/kubernetes-loong64/kubernetes-loong64) | Kubernetes 二进制文件和容器镜像                                                    |
-| [release-loong64](https://github.com/kubernetes-loong64/release-loong64)       | Kubernetes 发布工具和构建依赖镜像（debian-base、distroless-iptables、go-runner、setcap） |
-| [etcd-loong64](https://github.com/kubernetes-loong64/etcd-loong64)             | etcd 二进制文件和容器镜像                                                          |
-| [coredns-loong64](https://github.com/kubernetes-loong64/coredns-loong64)       | CoreDNS 二进制文件和容器镜像                                                       |
-| [cri-tools-loong64](https://github.com/kubernetes-loong64/cri-tools-loong64)   | 容器运行时 CLI 工具（crictl、critest）                                             |
-| [plugins-loong64](https://github.com/kubernetes-loong64/plugins-loong64)       | 容器网络 CNI 插件                                                              |
-| [cli-loong64](https://github.com/kubernetes-loong64/cli-loong64)               | Docker CLI 二进制文件                                                         |
-| [containerd-loong64](https://github.com/kubernetes-loong64/containerd-loong64) | containerd 二进制文件和容器镜像                                                    |
-| [moby-loong64](https://github.com/kubernetes-loong64/moby-loong64)             | Docker (Moby) 二进制文件                                                      |
-| [runc-loong64](https://github.com/kubernetes-loong64/runc-loong64)             | runc 二进制文件                                                               |
-| [tini-loong64](https://github.com/kubernetes-loong64/tini-loong64)             | Tini（容器 init）二进制文件                                                       |
-| [jdk-loong64](https://github.com/kubernetes-loong64/jdk-loong64)               | JDK (Java 开发工具包) LoongArch64 容器镜像                                        |
-| [maven-loong64](https://github.com/kubernetes-loong64/maven-loong64)           | Apache Maven LoongArch64 容器镜像                                            |
-| [gradle-loong64](https://github.com/kubernetes-loong64/gradle-loong64)         | Gradle LoongArch64 容器镜像                                                  |
+| 项目                                                                                                         | 描述                                                                       |
+|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| [submodule-loong64](https://github.com/kubernetes-loong64/submodule-loong64)                               | 通过 git 子模块聚合所有 LoongArch64 组件仓库的 Monorepo                                |
+| [kubernetes-loong64](https://github.com/kubernetes-loong64/kubernetes-loong64)                             | Kubernetes 二进制文件和容器镜像                                                    |
+| [release-loong64](https://github.com/kubernetes-loong64/release-loong64)                                   | Kubernetes 发布工具和构建依赖镜像（debian-base、distroless-iptables、go-runner、setcap） |
+| [etcd-loong64](https://github.com/kubernetes-loong64/etcd-loong64)                                         | etcd 二进制文件和容器镜像                                                          |
+| [coredns-loong64](https://github.com/kubernetes-loong64/coredns-loong64)                                   | CoreDNS 二进制文件和容器镜像                                                       |
+| [cri-tools-loong64](https://github.com/kubernetes-loong64/cri-tools-loong64)                               | 容器运行时 CLI 工具（crictl、critest）                                             |
+| [plugins-loong64](https://github.com/kubernetes-loong64/plugins-loong64)                                   | 容器网络 CNI 插件                                                              |
+| [cli-loong64](https://github.com/kubernetes-loong64/cli-loong64)                                           | Docker CLI 二进制文件                                                         |
+| [containerd-loong64](https://github.com/kubernetes-loong64/containerd-loong64)                             | containerd 二进制文件和容器镜像                                                    |
+| [moby-loong64](https://github.com/kubernetes-loong64/moby-loong64)                                         | Docker (Moby) 二进制文件                                                      |
+| [runc-loong64](https://github.com/kubernetes-loong64/runc-loong64)                                         | runc 二进制文件                                                               |
+| [tini-loong64](https://github.com/kubernetes-loong64/tini-loong64)                                         | Tini（容器 init）二进制文件                                                       |
+| [jdk-loong64](https://github.com/kubernetes-loong64/jdk-loong64)                                           | JDK (Java 开发工具包) LoongArch64 容器镜像                                        |
+| [maven-loong64](https://github.com/kubernetes-loong64/maven-loong64)                                       | Apache Maven LoongArch64 容器镜像                                            |
+| [gradle-loong64](https://github.com/kubernetes-loong64/gradle-loong64)                                     | Gradle LoongArch64 容器镜像                                                  |
+| [runner-tools-base-images-loong64](https://github.com/kubernetes-loong64/runner-tools-base-images-loong64) | gitlab-runner-helper 基础镜像 LoongArch64 移植                                 |
+| [gitlab-runner-loong64](https://github.com/kubernetes-loong64/gitlab-runner-loong64)                       | gitlab-runner-helper 容器镜像 LoongArch64 移植                                 |
 
 ## 容器镜像
 
