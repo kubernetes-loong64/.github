@@ -29,6 +29,7 @@
 | [gradle-loong64](https://github.com/kubernetes-loong64/gradle-loong64)                                     | Gradle LoongArch64 容器镜像                                                  |
 | [runner-tools-base-images-loong64](https://github.com/kubernetes-loong64/runner-tools-base-images-loong64) | gitlab-runner-helper 基础镜像 LoongArch64 移植                                 |
 | [gitlab-runner-loong64](https://github.com/kubernetes-loong64/gitlab-runner-loong64)                       | gitlab-runner-helper 容器镜像 LoongArch64 移植                                 |
+| [jenkins-loong64](https://github.com/kubernetes-loong64/jenkins-loong64)                                   | Jenkins LoongArch64 容器镜像                                                   |
 
 ## 容器镜像
 

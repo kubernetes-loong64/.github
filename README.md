@@ -29,6 +29,7 @@ We provide pre-built binaries and Docker images for LoongArch64, built via autom
 | [gradle-loong64](https://github.com/kubernetes-loong64/gradle-loong64)                                     | Gradle container images for LoongArch64                                                                      |
 | [runner-tools-base-images-loong64](https://github.com/kubernetes-loong64/runner-tools-base-images-loong64) | gitlab-runner-helper base images for LoongArch64                                                             |
 | [gitlab-runner-loong64](https://github.com/kubernetes-loong64/gitlab-runner-loong64)                       | gitlab-runner-helper container image porting to LoongArch64                                                  |
+| [jenkins-loong64](https://github.com/kubernetes-loong64/jenkins-loong64)                                   | Jenkins container images for LoongArch64                                                                     |
 
 ## Container images
 
