@@ -20,6 +20,7 @@
 | [cri-tools-loong64](https://github.com/kubernetes-loong64/cri-tools-loong64)                               | 容器运行时 CLI 工具（crictl、critest）                                             |
 | [plugins-loong64](https://github.com/kubernetes-loong64/plugins-loong64)                                   | 容器网络 CNI 插件                                                              |
 | [cli-loong64](https://github.com/kubernetes-loong64/cli-loong64)                                           | Docker CLI 二进制文件                                                         |
+| [compose-loong64](https://github.com/kubernetes-loong64/compose-loong64)                                   | Docker Compose 二进制文件                                                     |
 | [containerd-loong64](https://github.com/kubernetes-loong64/containerd-loong64)                             | containerd 二进制文件和容器镜像                                                    |
 | [moby-loong64](https://github.com/kubernetes-loong64/moby-loong64)                                         | Docker (Moby) 二进制文件                                                      |
 | [runc-loong64](https://github.com/kubernetes-loong64/runc-loong64)                                         | runc 二进制文件                                                               |
@@ -29,7 +30,7 @@
 | [gradle-loong64](https://github.com/kubernetes-loong64/gradle-loong64)                                     | Gradle LoongArch64 容器镜像                                                  |
 | [runner-tools-base-images-loong64](https://github.com/kubernetes-loong64/runner-tools-base-images-loong64) | gitlab-runner-helper 基础镜像 LoongArch64 移植                                 |
 | [gitlab-runner-loong64](https://github.com/kubernetes-loong64/gitlab-runner-loong64)                       | gitlab-runner-helper 容器镜像 LoongArch64 移植                                 |
-| [jenkins-loong64](https://github.com/kubernetes-loong64/jenkins-loong64)                                   | Jenkins LoongArch64 容器镜像                                                   |
+| [jenkins-loong64](https://github.com/kubernetes-loong64/jenkins-loong64)                                   | Jenkins LoongArch64 容器镜像                                                 |
 
 ## 容器镜像
 
