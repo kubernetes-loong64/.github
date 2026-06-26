@@ -29,11 +29,13 @@ We provide pre-built binaries and Docker images for LoongArch64, built via autom
 | [nexus-loong64](https://github.com/kubernetes-loong64/nexus-loong64)                                       | Nexus Repository Manager container images for LoongArch64                                                    |
 | [ossutil-loong64](https://github.com/kubernetes-loong64/ossutil-loong64)                                   | ossutil (Alibaba Cloud OSS CLI) binary for LoongArch64                                                       |
 | [plugins-loong64](https://github.com/kubernetes-loong64/plugins-loong64)                                   | CNI plugins for container networking on LoongArch64                                                          |
+| [redis-loong64](https://github.com/kubernetes-loong64/redis-loong64)                                       | Redis container images for LoongArch64                                                                       |
 | [release-loong64](https://github.com/kubernetes-loong64/release-loong64)                                   | Kubernetes release tooling and build dependency images (debian-base, distroless-iptables, go-runner, setcap) |
 | [runc-loong64](https://github.com/kubernetes-loong64/runc-loong64)                                         | runc binaries for LoongArch64                                                                                |
 | [runner-tools-base-images-loong64](https://github.com/kubernetes-loong64/runner-tools-base-images-loong64) | gitlab-runner-helper base images for LoongArch64                                                             |
 | [submodule-loong64](https://github.com/kubernetes-loong64/submodule-loong64)                               | Monorepo aggregating all LoongArch64 component repositories as git submodules                                |
 | [tini-loong64](https://github.com/kubernetes-loong64/tini-loong64)                                         | Tini (init for containers) binaries for LoongArch64                                                          |
+| [valkey-loong64](https://github.com/kubernetes-loong64/valkey-loong64)                                     | Valkey container images for LoongArch64                                                                      |
 
 ## Container images
 

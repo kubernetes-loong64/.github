@@ -29,11 +29,13 @@
 | [nexus-loong64](https://github.com/kubernetes-loong64/nexus-loong64)                                       | Nexus Repository Manager LoongArch64 容器镜像                                |
 | [ossutil-loong64](https://github.com/kubernetes-loong64/ossutil-loong64)                                   | ossutil（阿里云 OSS 命令行工具）二进制文件                                              |
 | [plugins-loong64](https://github.com/kubernetes-loong64/plugins-loong64)                                   | 容器网络 CNI 插件                                                              |
+| [redis-loong64](https://github.com/kubernetes-loong64/redis-loong64)                                       | Redis LoongArch64 容器镜像                                                   |
 | [release-loong64](https://github.com/kubernetes-loong64/release-loong64)                                   | Kubernetes 发布工具和构建依赖镜像（debian-base、distroless-iptables、go-runner、setcap） |
 | [runc-loong64](https://github.com/kubernetes-loong64/runc-loong64)                                         | runc 二进制文件                                                               |
 | [runner-tools-base-images-loong64](https://github.com/kubernetes-loong64/runner-tools-base-images-loong64) | gitlab-runner-helper 基础镜像 LoongArch64 移植                                 |
 | [submodule-loong64](https://github.com/kubernetes-loong64/submodule-loong64)                               | 通过 git 子模块聚合所有 LoongArch64 组件仓库的 Monorepo                                |
 | [tini-loong64](https://github.com/kubernetes-loong64/tini-loong64)                                         | Tini（容器 init）二进制文件                                                       |
+| [valkey-loong64](https://github.com/kubernetes-loong64/valkey-loong64)                                     | Valkey LoongArch64 容器镜像                                                  |
 
 ## 容器镜像
 
