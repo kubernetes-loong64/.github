@@ -66,6 +66,14 @@ echo "FCF8724722CCBF9F51B1FBE376532BE7E3013105:6:" | gpg --import-ownertrust
 gpg --import /tmp/xxx
 ```
 
+## 文档
+
+- [LoongArch64 (loong64) 龙芯架构：从 GitHub 安装 github.com/kubernetes-loong64 编译的 containerd、docker 二进制](https://xuxiaowei.io/t/754)
+- [LoongArch64 (loong64) 龙芯架构：从 GitHub 安装 github.com/kubernetes-loong64 编译的 containerd、docker rpm 包](https://xuxiaowei.io/t/811)
+- [LoongArch64 (loong64) 龙芯架构：从 rpm 仓库 安装 github.com/kubernetes-loong64 编译的 containerd、docker rpm 包](https://xuxiaowei.io/t/812)
+- [LoongArch64 (loong64) 龙芯架构：安装 Kubernetes](https://xuxiaowei.io/t/858)
+- [视频：龙芯 3B6000 安装 Kubernetes 1.30.1：基于 containerd 2.3.1](https://www.bilibili.com/video/BV1VK7H68EtF/)
+
 ## 许可证
 
 所有项目均基于 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) 许可。

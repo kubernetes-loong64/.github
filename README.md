@@ -66,6 +66,14 @@ Or download the key file manually and import it:
 gpg --import /tmp/xxx
 ```
 
+## Documentation
+
+- [Install containerd and docker binaries on LoongArch](https://xuxiaowei.io/t/754)
+- [Install containerd and docker RPM packages on LoongArch](https://xuxiaowei.io/t/811)
+- [Install containerd and docker RPM packages from RPM repository on LoongArch](https://xuxiaowei.io/t/812)
+- [Install Kubernetes on LoongArch (loong64)](https://xuxiaowei.io/t/858)
+- [Video: Loongson 3B6000 install Kubernetes 1.30.1 with containerd 2.3.1](https://www.bilibili.com/video/BV1VK7H68EtF/)
+
 ## License
 
 All projects are licensed under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
