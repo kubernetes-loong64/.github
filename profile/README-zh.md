@@ -14,6 +14,7 @@
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | [cli-loong64](https://github.com/kubernetes-loong64/cli-loong64)                                           | Docker CLI 二进制文件                                                         |
 | [compose-loong64](https://github.com/kubernetes-loong64/compose-loong64)                                   | Docker Compose 二进制文件                                                     |
+| [debian-loong64](https://github.com/kubernetes-loong64/debian-loong64)                                     | 同步 Debian 容器镜像到 Docker Hub 用于 LoongArch64                                |
 | [containerd-loong64](https://github.com/kubernetes-loong64/containerd-loong64)                             | containerd 二进制文件和容器镜像                                                    |
 | [coredns-loong64](https://github.com/kubernetes-loong64/coredns-loong64)                                   | CoreDNS 二进制文件和容器镜像                                                       |
 | [cri-tools-loong64](https://github.com/kubernetes-loong64/cri-tools-loong64)                               | 容器运行时 CLI 工具（crictl、critest）                                             |
