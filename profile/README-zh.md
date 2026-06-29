@@ -14,6 +14,7 @@
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | [cli-loong64](https://github.com/kubernetes-loong64/cli-loong64)                                           | Docker CLI 二进制文件                                                         |
 | [compose-loong64](https://github.com/kubernetes-loong64/compose-loong64)                                   | Docker Compose 二进制文件                                                     |
+| [createrepo-loong64](https://github.com/kubernetes-loong64/createrepo-loong64)                             | createrepo_c 容器镜像，用于生成 RPM 仓库元数据（amd64、arm64、loong64）                    |
 | [debian-loong64](https://github.com/kubernetes-loong64/debian-loong64)                                     | 同步 Debian 容器镜像到 Docker Hub 用于 LoongArch64                                |
 | [containerd-loong64](https://github.com/kubernetes-loong64/containerd-loong64)                             | containerd 二进制文件和容器镜像                                                    |
 | [coredns-loong64](https://github.com/kubernetes-loong64/coredns-loong64)                                   | CoreDNS 二进制文件和容器镜像                                                       |
