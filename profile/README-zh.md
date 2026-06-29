@@ -19,6 +19,7 @@
 | [coredns-loong64](https://github.com/kubernetes-loong64/coredns-loong64)                                   | CoreDNS 二进制文件和容器镜像                                                       |
 | [cri-tools-loong64](https://github.com/kubernetes-loong64/cri-tools-loong64)                               | 容器运行时 CLI 工具（crictl、critest）                                             |
 | [etcd-loong64](https://github.com/kubernetes-loong64/etcd-loong64)                                         | etcd 二进制文件和容器镜像                                                          |
+| [git-loong64](https://github.com/kubernetes-loong64/git-loong64)                                           | Git 版本控制系统容器镜像                                                           |
 | [gitlab-runner-loong64](https://github.com/kubernetes-loong64/gitlab-runner-loong64)                       | gitlab-runner-helper 容器镜像 LoongArch64 移植                                 |
 | [gradle-loong64](https://github.com/kubernetes-loong64/gradle-loong64)                                     | Gradle LoongArch64 容器镜像                                                  |
 | [jdk-loong64](https://github.com/kubernetes-loong64/jdk-loong64)                                           | JDK (Java 开发工具包) LoongArch64 容器镜像                                        |
