@@ -14,7 +14,7 @@
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | [cli-loong64](https://github.com/kubernetes-loong64/cli-loong64)                                           | Docker CLI 二进制文件                                                         |
 | [compose-loong64](https://github.com/kubernetes-loong64/compose-loong64)                                   | Docker Compose 二进制文件                                                     |
-| [createrepo-loong64](https://github.com/kubernetes-loong64/createrepo-loong64)                             | createrepo_c 容器镜像，用于生成 RPM 仓库元数据（amd64、arm64、loong64）                    |
+| [createrepo](https://github.com/kubernetes-loong64/createrepo)                                             | createrepo_c 容器镜像，用于生成 RPM 仓库元数据（amd64、arm64、loong64）                    |
 | [debian-loong64](https://github.com/kubernetes-loong64/debian-loong64)                                     | 同步 Debian 容器镜像到 Docker Hub 用于 LoongArch64                                |
 | [containerd-loong64](https://github.com/kubernetes-loong64/containerd-loong64)                             | containerd 二进制文件和容器镜像                                                    |
 | [coredns-loong64](https://github.com/kubernetes-loong64/coredns-loong64)                                   | CoreDNS 二进制文件和容器镜像                                                       |
@@ -35,6 +35,7 @@
 | [plugins-loong64](https://github.com/kubernetes-loong64/plugins-loong64)                                   | 容器网络 CNI 插件                                                              |
 | [redis-loong64](https://github.com/kubernetes-loong64/redis-loong64)                                       | Redis LoongArch64 容器镜像                                                   |
 | [release-loong64](https://github.com/kubernetes-loong64/release-loong64)                                   | Kubernetes 发布工具和构建依赖镜像（debian-base、distroless-iptables、go-runner、setcap） |
+| [reprepro](https://github.com/kubernetes-loong64/reprepro)                                                 | reprepro 容器镜像，用于生成 deb 仓库元数据（amd64、arm64、loong64）                        |
 | [runc-loong64](https://github.com/kubernetes-loong64/runc-loong64)                                         | runc 二进制文件                                                               |
 | [runner-tools-base-images-loong64](https://github.com/kubernetes-loong64/runner-tools-base-images-loong64) | gitlab-runner-helper 基础镜像 LoongArch64 移植                                 |
 | [submodule-loong64](https://github.com/kubernetes-loong64/submodule-loong64)                               | 通过 git 子模块聚合所有 LoongArch64 组件仓库的 Monorepo                                |
