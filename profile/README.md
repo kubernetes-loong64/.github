@@ -12,6 +12,7 @@ We provide pre-built binaries and Docker images for LoongArch64, built via autom
 
 | Project                                                                                                    | Description                                                                                                  |
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| [buildx-loong64](https://github.com/kubernetes-loong64/buildx-loong64)                                     | Docker Buildx binary for LoongArch64                                                                         |
 | [cli-loong64](https://github.com/kubernetes-loong64/cli-loong64)                                           | Docker CLI binaries for LoongArch64                                                                          |
 | [compose-loong64](https://github.com/kubernetes-loong64/compose-loong64)                                   | Docker Compose binary for LoongArch64                                                                        |
 | [createrepo](https://github.com/kubernetes-loong64/createrepo)                                             | createrepo_c container images for RPM repository metadata generation (amd64, arm64, loong64)                 |
