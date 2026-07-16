@@ -32,6 +32,7 @@
 | [minio-loong64](https://github.com/kubernetes-loong64/minio-loong64)                                       | MinIO 服务器和 mc (MinIO Client) 二进制文件与 Docker 镜像                            |
 | [moby-loong64](https://github.com/kubernetes-loong64/moby-loong64)                                         | Docker (Moby) 二进制文件                                                      |
 | [nexus-loong64](https://github.com/kubernetes-loong64/nexus-loong64)                                       | Nexus Repository Manager LoongArch64 容器镜像                                |
+| [node-loong64](https://github.com/kubernetes-loong64/node-loong64)                                         | Node.js LoongArch64 容器镜像                                                 |
 | [nginx-loong64](https://github.com/kubernetes-loong64/nginx-loong64)                                       | Nginx LoongArch64 容器镜像                                                   |
 | [ossutil-loong64](https://github.com/kubernetes-loong64/ossutil-loong64)                                   | ossutil（阿里云 OSS 命令行工具）二进制文件                                              |
 | [plugins-loong64](https://github.com/kubernetes-loong64/plugins-loong64)                                   | 容器网络 CNI 插件                                                              |
