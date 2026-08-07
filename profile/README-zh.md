@@ -24,6 +24,7 @@
 | [etcd-loong64](https://github.com/kubernetes-loong64/etcd-loong64)                                         | etcd 二进制文件和容器镜像                                                                |
 | [git-loong64](https://github.com/kubernetes-loong64/git-loong64)                                           | Git 版本控制系统容器镜像                                                                 |
 | [gitlab-runner-loong64](https://github.com/kubernetes-loong64/gitlab-runner-loong64)                       | gitlab-runner-helper 容器镜像 LoongArch64 移植                                           |
+| [go-containerregistry-loong64](https://github.com/kubernetes-loong64/go-containerregistry-loong64)         | go-containerregistry CLI 工具 (crane、gcrane、krane) 容器镜像                            |
 | [gradle-loong64](https://github.com/kubernetes-loong64/gradle-loong64)                                     | Gradle LoongArch64 容器镜像                                                              |
 | [htop-loong64](https://github.com/kubernetes-loong64/htop-loong64)                                         | 交互式进程查看器 (htop) LoongArch64 移植                                                 |
 | [jdk-loong64](https://github.com/kubernetes-loong64/jdk-loong64)                                           | JDK (Java 开发工具包) LoongArch64 容器镜像                                               |
