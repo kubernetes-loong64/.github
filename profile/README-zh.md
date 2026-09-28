@@ -13,6 +13,7 @@
 | 项目                                                                                                       | 描述                                                                                     |
 |------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [actions-runner-loong64](https://github.com/kubernetes-loong64/actions-runner-loong64)                     | GitHub Actions Runner 容器镜像 loong64 移植                                              |
+| [alpine](https://github.com/kubernetes-loong64/alpine)                                                     | Alpine Linux 基础容器镜像，支持 LoongArch64 及八种其他架构                               |
 | [buildx-loong64](https://github.com/kubernetes-loong64/buildx-loong64)                                     | Docker Buildx 二进制文件                                                                 |
 | [cli-loong64](https://github.com/kubernetes-loong64/cli-loong64)                                           | Docker CLI 二进制文件                                                                    |
 | [compose-loong64](https://github.com/kubernetes-loong64/compose-loong64)                                   | Docker Compose 二进制文件                                                                |
